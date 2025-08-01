@@ -1,3 +1,9 @@
+## About
+Project ini merupakan test frontend intern pada PT Suit Media Kreasi. Peserta diminta untuk membangun tampilan web semirip mungkin dan menghandle API call untuk data post. Peserta juga diminta untuk menerapkan pagination pada web nya 
+
+## Link
+https://project-test-razzanindranaputra-3hk.vercel.app/
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
